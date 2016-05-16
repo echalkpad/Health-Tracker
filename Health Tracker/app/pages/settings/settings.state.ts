@@ -1,4 +1,4 @@
-﻿import {State} from '../../sam/sam.state';
+﻿import {State} from '../../sam/sam.state';  // SAM model
 import {SettingsActions} from './settings.actions';
 import {SettingsViews} from './settings.views';
 
